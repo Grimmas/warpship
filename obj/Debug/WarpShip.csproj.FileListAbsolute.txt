@@ -1,0 +1,13 @@
+C:\Projects\KSP\warpship\bin\Debug\WarpShip.dll
+C:\Projects\KSP\warpship\bin\Debug\WarpShip.pdb
+C:\Projects\KSP\warpship\bin\Debug\Assembly-CSharp.dll
+C:\Projects\KSP\warpship\bin\Debug\UnityEngine.dll
+C:\Projects\KSP\warpship\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Projects\KSP\warpship\bin\Debug\System.Xml.dll
+C:\Projects\KSP\warpship\bin\Debug\TDx.TDxInput.dll
+C:\Projects\KSP\warpship\bin\Debug\TrackIRUnity.dll
+C:\Projects\KSP\warpship\bin\Debug\Mono.Cecil.dll
+C:\Projects\KSP\warpship\bin\Debug\Mono.Security.dll
+C:\Projects\KSP\warpship\obj\Debug\WarpShip.csprojResolveAssemblyReference.cache
+C:\Projects\KSP\warpship\obj\Debug\WarpShip.dll
+C:\Projects\KSP\warpship\obj\Debug\WarpShip.pdb

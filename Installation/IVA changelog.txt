@@ -1,0 +1,14 @@
+CHANGELOG :
+
+v0.9
+- Add some new screens
+- Change shape of chairs to match original design
+- Textures update! (now with alpha)
+- Portrait Camera fixed
+- An MM-config file
+
+TO-DO :
+
+- More rooms
+- More seats
+- More props
