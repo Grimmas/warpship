@@ -1497,13 +1497,13 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = (0.0, 0.0, 0.0)
-	link = wsMDrive_4294583678
+	link = wsQVEngine2_4294583678
 	link = linearRcs_4294487008
 	link = linearRcs_4294486146
 	link = linearRcs_4294486092
 	link = launchClamp1_4294475344
 	link = launchClamp1_4294473744
-	attN = top,wsMDrive_4294583678
+	attN = top,wsQVEngine2_4294583678
 	attN = bottom,wsSize3SAS_4294592656
 	EVENTS
 	{
@@ -1695,7 +1695,7 @@ PART
 }
 PART
 {
-	part = wsMDrive_4294583678
+	part = wsQVEngine2_4294583678
 	partName = Part
 	pos = 0,10,-18.77351
 	attPos = 0,0,0
