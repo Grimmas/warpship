@@ -82,5 +82,8 @@
     <Reference Include="UnityEngine.UI">
       <HintPath>..\..\..\1.2 Managed\UnityEngine.UI.dll</HintPath>
     </Reference>
+    <Reference Include="UnityScript.Lang">
+      <HintPath>..\..\..\1.2 Managed\UnityScript.Lang.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

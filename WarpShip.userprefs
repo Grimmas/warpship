@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="WSXStuff.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WSXLightSwitch.cs">
     <Files>
       <File FileName="WSXStuff.cs" Line="32" Column="34" />
       <File FileName="WSXContainmentSystem.cs" Line="6" Column="35" />
+      <File FileName="WSXColorReconfigure.cs" Line="42" Column="50" />
+      <File FileName="WSXLightSwitch.cs" Line="29" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />

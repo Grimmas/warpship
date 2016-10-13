@@ -12,3 +12,5 @@
 /Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/System.Xml.dll
 /Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/Mono.Cecil.dll
 /Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/Mono.Security.dll
+/Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/UnityScript.Lang.dll
+/Users/bartb/Dropbox/Kerbal Space Program/Projects/bartblommaerts/warpship/bin/Release/Boo.Lang.dll

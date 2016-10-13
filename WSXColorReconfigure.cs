@@ -39,7 +39,8 @@ namespace WarpShip
 		private void DoColorReconfigure(bool startup, string colorName, float cr, float cg, float cb)
 		{
 			if (reconfigureEmissiveRenderer != String.Empty) {
-				MeshRenderer[] pRenderers = part.FindModelComponents<MeshRenderer>();
+				System.Collections.Generic.List<MeshRenderer> lstMeshRenderers = part.FindModelComponents<MeshRenderer>();
+				MeshRenderer[] pRenderers = lstMeshRenderers.ToArray();
 				for (var i = 0; i < pRenderers.Length; i++) {
 					MeshRenderer mr = pRenderers [i];
 					if (mr.gameObject.name == reconfigureEmissiveRenderer) {
