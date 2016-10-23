@@ -1,3 +1,15 @@
+0.4.0.2: October 14 2016
+- Updated SurveyScanner pod to KSP1.2 Kerbnet
+- SCANsat modifies all parts with Survey scanners in them, so the pod is also SCANsat ready now
+
+0.4.0.1: October 13 2016
+- Added Develocitizer function to Warpdrive Ring
+- Replaced deprecated MDrive thruster in example craft with QV2Thruster
+
+0.4.0.0: October 12 2016
+- Fixed get array of MeshRenderer to use List object as intermediary
+- Compiled against KSP 1.2 libraries
+
 0.3.9.1: October 7 2016
 - Sorted parts into proper categories
 - Sorted Science Sensors into Sensor pod
