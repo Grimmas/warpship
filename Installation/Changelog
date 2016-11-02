@@ -1,3 +1,7 @@
+0.4.0.3: November 2 2016
+- Adjusted Resource chain to be more realistic
+- Compiled against KSP1.2.1
+
 0.4.0.2: October 14 2016
 - Updated SurveyScanner pod to KSP1.2 Kerbnet
 - SCANsat modifies all parts with Survey scanners in them, so the pod is also SCANsat ready now
