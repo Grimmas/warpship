@@ -1,14 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="WSXDevelocitizer.cs">
     <Files>
-      <File FileName="WSXStuff.cs" Line="32" Column="34" />
-      <File FileName="WSXContainmentSystem.cs" Line="6" Column="35" />
-      <File FileName="WSXColorReconfigure.cs" Line="42" Column="50" />
-      <File FileName="WSXLightSwitch.cs" Line="29" Column="4" />
+      <File FileName="WSXStuff.cs" Line="1" Column="1" />
+      <File FileName="WSXContainmentSystem.cs" Line="1" Column="1" />
+      <File FileName="WSXColorReconfigure.cs" Line="1" Column="1" />
+      <File FileName="WSXLightSwitch.cs" Line="1" Column="1" />
       <File FileName="WSXDevelocitizer.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
