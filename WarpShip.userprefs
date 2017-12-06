@@ -1,16 +1,13 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="WSXDevelocitizer.cs">
+﻿<Properties StartupItem="WarpShip.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/AssemblyInfo.cs">
     <Files>
-      <File FileName="WSXStuff.cs" Line="1" Column="1" />
-      <File FileName="WSXContainmentSystem.cs" Line="1" Column="1" />
-      <File FileName="WSXColorReconfigure.cs" Line="1" Column="1" />
-      <File FileName="WSXLightSwitch.cs" Line="1" Column="1" />
-      <File FileName="WSXDevelocitizer.cs" Line="1" Column="1" />
+      <File FileName="Properties/AssemblyInfo.cs" Line="11" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
