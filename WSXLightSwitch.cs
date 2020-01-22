@@ -24,8 +24,8 @@ namespace WarpShip
 			if (toggle)
 				LightsAreOn = !LightsAreOn;
 			myLight.enabled = LightsAreOn;
-
-			MeshRenderer[] pRenderers = part.FindModelComponents<MeshRenderer>();
+			System.Collections.Generic.List<MeshRenderer> lstMeshRenderers = part.FindModelComponents<MeshRenderer>();
+			MeshRenderer[] pRenderers = lstMeshRenderers.ToArray();
 			for (var i = 0; i < pRenderers.Length; i++) {
 				MeshRenderer mr = pRenderers [i];
 				if (mr.gameObject.name == Emissive) {

@@ -29,7 +29,7 @@ namespace WarpShip
 
 			Collider[] boom = Physics.OverlapSphere (explosionCenter, radius);
 		
-			Rigidbody baserb = p.rigidbody;
+			Rigidbody baserb = p.Rigidbody;
 			p.explode ();
 
 			for (var i = 0; i < boom.Length; i++) {
