@@ -1,7 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarpShip", "WarpShip.csproj", "{597B17DB-4F27-4DFA-9A17-06D2E879637A}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarpShip", "Source\WarpShip.csproj", "{597B17DB-4F27-4DFA-9A17-06D2E879637A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DCC8C2C4-3CE5-4B76-BBFF-AB5C8A43639B}"
+	ProjectSection(SolutionItems) = preProject
+		buildRelease.bat = buildRelease.bat
+		ChangeLog.txt = ChangeLog.txt
+		deploy.bat = deploy.bat
+		IXSWarpShipOS.version = IXSWarpShipOS.version
+		jenkins.txt = jenkins.txt
+		LICENSE.txt = LICENSE.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +25,12 @@ Global
 		{597B17DB-4F27-4DFA-9A17-06D2E879637A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{597B17DB-4F27-4DFA-9A17-06D2E879637A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{597B17DB-4F27-4DFA-9A17-06D2E879637A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CEBA632-0947-4D7A-BB0D-2F63C02A8628}
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0

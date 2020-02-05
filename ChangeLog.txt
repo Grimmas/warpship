@@ -1,0 +1,15 @@
+Changelog
+
+0.5.0
+	Adoption by LGG
+	Reorganized directories
+	Saved master branch in oldmasterbranch
+	Made master current with the Release branch
+	Updated csproj for KSP 1.8
+	Added AssemblyVersion.tt
+	Added InstallChecker
+	Added IXSWarpShipOS.version
+	Removed WSXFSFuelSwitch and reconfigured to use B9 Part Switch
+	Added bulkheadProfiles to all parts
+	Added basic tags to all parts
+	Reformatted all parts file
