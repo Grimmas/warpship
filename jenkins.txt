@@ -26,6 +26,8 @@
 # 1:GAMEDIR, VERSIONFILE [, GITHUBREPO ]
 1:IXSWarpShipOS, IXSWarpShipOS.version, warpship
 
+# 2:PROJNAME, PROJFILE, VERSIONFILE, PLUGINSFOLDER
+2:WarpShip,Source/WarpShip.csproj,IXSWarpShipOS.version,GameData/IXSWarpShipOS/Plugins
 
 # 3:SOURCEFILE, DESTDIR
 3:IXSWarpShipOS.version,GameData/IXSWarpShipOS
