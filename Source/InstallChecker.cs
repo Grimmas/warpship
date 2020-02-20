@@ -41,7 +41,7 @@ namespace WarpShip
     internal class InstallChecker : MonoBehaviour
     {
     private const string MODNAME = "IXIWarpShip";
-    private const string FOLDERNAME = "warpship";
+    private const string FOLDERNAME = "IXSWarpShipOS";
         private const string EXPECTEDPATH = FOLDERNAME + "/Plugins";
 
         protected void Start()
