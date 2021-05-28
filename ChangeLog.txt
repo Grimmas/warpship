@@ -1,5 +1,10 @@
 Changelog
 
+0.5.1
+	Thanks to forum user @araym for this:
+		Fixed typo in most parts:  Changed LqDeuterium to LqdDeuterium
+		Added new nodes onto the main hull, these helps using the dorsal and ventral 2.5m recess and the two lateral "crewtubes/struts" that poke out between the lateral solar panels.
+
 0.5.0.2
 	Fixed folder name in InstallChecker
 
