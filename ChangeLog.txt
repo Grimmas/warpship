@@ -1,5 +1,8 @@
 Changelog
 
+0.5.1.1
+	Changed crew capacity of the command module to 5
+
 0.5.1
 	Thanks to forum user @araym for this:
 		Fixed typo in most parts:  Changed LqDeuterium to LqdDeuterium
